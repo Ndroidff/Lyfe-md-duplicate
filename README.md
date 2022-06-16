@@ -1,5 +1,5 @@
 ### WhatsApp MD user bot
-
+<!img align="center"alt="Coding" width="500"src="https://media2.giphy.com/media/oxjEQAAERDpRGp51D3/giphy.gif?cid=6c09b9526682283d53192f0e4f5ea1fc0b0caba1f016f472&rid=giphy.gif&ct=g"><!br/>
 ### Setup
 
 1. Click [SCAN](https://levanter.up.railway.app/md) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
